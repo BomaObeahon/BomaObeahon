@@ -2,7 +2,7 @@
 
 A Data Analyst learning by breaking things and then frantically trying to fix them 😁😉. That’s how I grow — by experimenting, making mistakes, and finding smarter ways to solve problems.
 
-I love working with data because it feels like solving puzzles that actually matter. Whether it’s spotting trends, building dashboards, or uncovering insights that help businesses grow, I enjoy turning numbers into something people can understand and act on..**.
+I love working with data because it feels like solving puzzles that actually matter. Whether it’s spotting trends, building dashboards, or uncovering insights that help businesses grow, I enjoy turning numbers into something people can understand and act on.
 
 ---
 - **Work:** Writes code that sometimes works.
